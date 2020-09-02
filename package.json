@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dermansultan/testingpractice/issues"
   },
-  "homepage": "https://github.com/dermansultan/testingpractice#readme"
+  "homepage": "https://github.com/dermansultan/testingpractice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.5"
+  }
 }
